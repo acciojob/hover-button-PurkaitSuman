@@ -1,12 +1,12 @@
 #btn {
     color: white;
-	background-color: black;
+	background: black;
 	border:none;
     border-radius: 5px; 
 }
 #btn:hover {
     color: black;
-    background-color: yellow;
+    background: yellow;
 	border:none;
 	border-radius: 30px;
 }
