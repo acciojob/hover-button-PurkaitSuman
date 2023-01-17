@@ -1,7 +1,23 @@
 
-/* Your CSS Code here. */
-#btn{
-	background:black;
-	color:white;
-	border-radius:30px;
+
+
+button {
+    transition: all .5s ease;
+    color: white;
+	background-color: black;
+    border: 3px solid white;
+    font-family:'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+    font-size: 17px;
+    
+    padding: 10px;
+    outline: none;
+    border-radius: 5px;
+}
+button:hover {
+    color: black;
+    background-color: yellow;
+	border-radius: 30px;
 }
